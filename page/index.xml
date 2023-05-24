@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 陈暑</title>
-        <link>https://example.com/page/</link>
+        <link>https://cs32963.github.io/page/</link>
         <description>Recent content in Pages on 陈暑</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cs32963.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>关于</title>
-        <link>https://example.com/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://cs32963.github.io/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://cs32963.github.io/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;h1 id=&#34;关于作者&#34;&gt;关于作者&lt;/h1&gt;
 &lt;p&gt;中国科学院大学在读硕士生&lt;/p&gt;
 &lt;h2 id=&#34;研究方向&#34;&gt;研究方向&lt;/h2&gt;
@@ -20,18 +20,18 @@
         </item>
         <item>
         <title>存档</title>
-        <link>https://example.com/archives/</link>
+        <link>https://cs32963.github.io/archives/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/archives/</guid>
+        <guid>https://cs32963.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>搜索</title>
-        <link>https://example.com/search/</link>
+        <link>https://cs32963.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/search/</guid>
+        <guid>https://cs32963.github.io/search/</guid>
         <description></description>
         </item>
         

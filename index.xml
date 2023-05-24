@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>陈暑</title>
-        <link>https://example.com/</link>
+        <link>https://cs32963.github.io/</link>
         <description>Recent content on 陈暑</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cs32963.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>In-context Learning</title>
-        <link>https://example.com/p/in-context-learning/</link>
+        <link>https://cs32963.github.io/p/in-context-learning/</link>
         <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/in-context-learning/</guid>
-        <description>&lt;img src="https://example.com/p/in-context-learning/DSC_0128.jpeg" alt="Featured image of post In-context Learning" /&gt;&lt;p&gt;使用In-context Learning来正确地使用大模型&lt;/p&gt;
+        <guid>https://cs32963.github.io/p/in-context-learning/</guid>
+        <description>&lt;img src="https://cs32963.github.io/p/in-context-learning/DSC_0128.jpeg" alt="Featured image of post In-context Learning" /&gt;&lt;p&gt;使用In-context Learning来正确地使用大模型&lt;/p&gt;
 &lt;h2 id=&#34;训练in-context-learning能力&#34;&gt;训练in-context learning能力&lt;/h2&gt;
 &lt;p&gt;Wei et al.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;提出了symbol tuning，试图训练in-context learning能力&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
@@ -28,11 +28,11 @@
         </item>
         <item>
         <title>Markdown</title>
-        <link>https://example.com/p/markdown/</link>
+        <link>https://cs32963.github.io/p/markdown/</link>
         <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/markdown/</guid>
-        <description>&lt;img src="https://example.com/p/markdown/DSC_0121.jpeg" alt="Featured image of post Markdown" /&gt;&lt;h1 id=&#34;一级标题&#34;&gt;一级标题&lt;/h1&gt;
+        <guid>https://cs32963.github.io/p/markdown/</guid>
+        <description>&lt;img src="https://cs32963.github.io/p/markdown/DSC_0121.jpeg" alt="Featured image of post Markdown" /&gt;&lt;h1 id=&#34;一级标题&#34;&gt;一级标题&lt;/h1&gt;
 &lt;h2 id=&#34;二级标题&#34;&gt;二级标题&lt;/h2&gt;
 &lt;h3 id=&#34;三级标题&#34;&gt;三级标题&lt;/h3&gt;
 &lt;h4 id=&#34;四级标题&#34;&gt;四级标题&lt;/h4&gt;
@@ -61,10 +61,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://markdown.com.cn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Markdown官方教程&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;图片&#34;&gt;图片&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.com/p/markdown/DSC_1112.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;https://cs32963.github.io/p/markdown/DSC_1112.jpeg&#34;
 	width=&#34;1280&#34;
 	height=&#34;847&#34;
-	srcset=&#34;https://example.com/p/markdown/DSC_1112_hu972c3c34d690533d7716d91c9bc4e356_175000_480x0_resize_q75_box.jpeg 480w, https://example.com/p/markdown/DSC_1112_hu972c3c34d690533d7716d91c9bc4e356_175000_1024x0_resize_q75_box.jpeg 1024w&#34;
+	srcset=&#34;https://cs32963.github.io/p/markdown/DSC_1112_hu972c3c34d690533d7716d91c9bc4e356_175000_480x0_resize_q75_box.jpeg 480w, https://cs32963.github.io/p/markdown/DSC_1112_hu972c3c34d690533d7716d91c9bc4e356_175000_1024x0_resize_q75_box.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;一只可爱的猫猫&#34;
@@ -79,10 +79,10 @@
         </item>
         <item>
         <title>关于</title>
-        <link>https://example.com/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://cs32963.github.io/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://cs32963.github.io/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;h1 id=&#34;关于作者&#34;&gt;关于作者&lt;/h1&gt;
 &lt;p&gt;中国科学院大学在读硕士生&lt;/p&gt;
 &lt;h2 id=&#34;研究方向&#34;&gt;研究方向&lt;/h2&gt;
@@ -91,34 +91,34 @@
         </item>
         <item>
         <title>存档</title>
-        <link>https://example.com/archives/</link>
+        <link>https://cs32963.github.io/archives/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/archives/</guid>
+        <guid>https://cs32963.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>基础</title>
-        <link>https://example.com/categories/%E5%9F%BA%E7%A1%80/</link>
+        <link>https://cs32963.github.io/categories/%E5%9F%BA%E7%A1%80/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/categories/%E5%9F%BA%E7%A1%80/</guid>
-        <description>&lt;img src="https://example.com/categories/%E5%9F%BA%E7%A1%80/IMG_0931.jpeg" alt="Featured image of post 基础" /&gt;</description>
+        <guid>https://cs32963.github.io/categories/%E5%9F%BA%E7%A1%80/</guid>
+        <description>&lt;img src="https://cs32963.github.io/categories/%E5%9F%BA%E7%A1%80/IMG_0931.jpeg" alt="Featured image of post 基础" /&gt;</description>
         </item>
         <item>
         <title>科研</title>
-        <link>https://example.com/categories/%E7%A7%91%E7%A0%94/</link>
+        <link>https://cs32963.github.io/categories/%E7%A7%91%E7%A0%94/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/categories/%E7%A7%91%E7%A0%94/</guid>
-        <description>&lt;img src="https://example.com/categories/%E7%A7%91%E7%A0%94/IMG_1277.jpeg" alt="Featured image of post 科研" /&gt;</description>
+        <guid>https://cs32963.github.io/categories/%E7%A7%91%E7%A0%94/</guid>
+        <description>&lt;img src="https://cs32963.github.io/categories/%E7%A7%91%E7%A0%94/IMG_1277.jpeg" alt="Featured image of post 科研" /&gt;</description>
         </item>
         <item>
         <title>搜索</title>
-        <link>https://example.com/search/</link>
+        <link>https://cs32963.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/search/</guid>
+        <guid>https://cs32963.github.io/search/</guid>
         <description></description>
         </item>
         

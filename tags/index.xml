@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on 陈暑</title>
-        <link>https://example.com/tags/</link>
+        <link>https://cs32963.github.io/tags/</link>
         <description>Recent content in Tags on 陈暑</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cs32963.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>in-context learning</title>
-        <link>https://example.com/tags/in-context-learning/</link>
+        <link>https://cs32963.github.io/tags/in-context-learning/</link>
         <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/in-context-learning/</guid>
+        <guid>https://cs32963.github.io/tags/in-context-learning/</guid>
         <description></description>
         </item>
         <item>
         <title>LLM</title>
-        <link>https://example.com/tags/llm/</link>
+        <link>https://cs32963.github.io/tags/llm/</link>
         <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/llm/</guid>
+        <guid>https://cs32963.github.io/tags/llm/</guid>
         <description></description>
         </item>
         <item>
         <title>markdown</title>
-        <link>https://example.com/tags/markdown/</link>
+        <link>https://cs32963.github.io/tags/markdown/</link>
         <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/markdown/</guid>
+        <guid>https://cs32963.github.io/tags/markdown/</guid>
         <description></description>
         </item>
         
