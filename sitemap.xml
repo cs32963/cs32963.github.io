@@ -11,10 +11,19 @@
     <loc>https://example.com/categories/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/p/markdown/</loc>
+    <loc>https://example.com/tags/in-context-learning/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/p/in-context-learning/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/llm/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/markdown/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/p/markdown/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/page/</loc>
@@ -32,10 +41,15 @@
     <loc>https://example.com/categories/%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/categories/%E7%A7%91%E7%A0%94/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/archives/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/%E5%9F%BA%E7%A1%80/</loc>
+  </url><url>
+    <loc>https://example.com/categories/%E7%A7%91%E7%A0%94/</loc>
   </url><url>
     <loc>https://example.com/search/</loc>
   </url>
